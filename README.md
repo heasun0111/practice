@@ -6,7 +6,7 @@
 ### 3.직원수는 400여명이다. 깃허브는 오픈소스 소프트웨어의 중심지(hub) 역할을 하면서 오픈소스 프로젝트가 널리 퍼지는 데 크게 기여하고 있다.
 #### 4.참고 링크:[naver 지식백과_깃허브](https://terms.naver.com/entry.nhn?docId=3580149&cid=59088&categoryId=59096)
 
-![GitHub_Logo](/사진/GitHub_Logo.jpg)
+![GitHub_Logo](https://goo.gl/images/rDkm3L)
 <img src="https://www.google.com/search?q=%EA%B9%83%ED%97%88%EB%B8%8C&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjtkpG0y5jhAhUI9rwKHVvaAIQQ_AUIDigB&biw=1038&bih=575#imgrc=WsLgPo7WAQU0LM:">
 <img src="https://www.google.com/search?q=%EA%B9%83%ED%97%88%EB%B8%8C&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjtkpG0y5jhAhUI9rwKHVvaAIQQ_AUIDigB&biw=1038&bih=575#imgrc=tFabIlUSEjVpUM:">
 
