@@ -7,7 +7,5 @@
 #### 4.참고 링크:[naver 지식백과_깃허브](https://terms.naver.com/entry.nhn?docId=3580149&cid=59088&categoryId=59096)
 
 ![GitHub_Logo](http://imgnews.naver.net/image/469/2018/06/04/0000304514_001_20180605044954296.jpg)
-<img src="https://www.google.com/search?q=%EA%B9%83%ED%97%88%EB%B8%8C&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjtkpG0y5jhAhUI9rwKHVvaAIQQ_AUIDigB&biw=1038&bih=575#imgrc=WsLgPo7WAQU0LM:">
-<img src="https://www.google.com/search?q=%EA%B9%83%ED%97%88%EB%B8%8C&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjtkpG0y5jhAhUI9rwKHVvaAIQQ_AUIDigB&biw=1038&bih=575#imgrc=tFabIlUSEjVpUM:">
 
 :octocat: :octocat: :octocat:
