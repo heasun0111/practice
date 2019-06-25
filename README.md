@@ -1,4 +1,4 @@
-## practice (Java 스터디 실습)
+## practice
 # 깃허브의 사용법을 익히기 위해 만들었습니다.
 
 <hr/>
